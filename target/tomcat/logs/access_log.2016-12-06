@@ -1,4 +1,0 @@
-0:0:0:0:0:0:0:1 - - [06/Dec/2016:17:08:27 +0800] "GET /rolesecurity/GetAllUsers HTTP/1.1" 200 1088 http-bio-8080-exec-1 540
-0:0:0:0:0:0:0:1 - - [06/Dec/2016:17:08:34 +0800] "POST /rolesecurity/LoginUser HTTP/1.1" 200 740 http-bio-8080-exec-3 420
-0:0:0:0:0:0:0:1 - - [06/Dec/2016:17:08:36 +0800] "GET /rolesecurity/index.jsp HTTP/1.1" 200 970 http-bio-8080-exec-4 52
-0:0:0:0:0:0:0:1 - - [06/Dec/2016:17:08:38 +0800] "GET /rolesecurity/GetAllUsers HTTP/1.1" 200 1056 http-bio-8080-exec-5 98
